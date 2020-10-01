@@ -15,5 +15,11 @@ As an employee with a busy schedule, a user can add important events to the plan
 4. Click on the save button to the input.
 5. If you refresh the page, your content will remain on the page.
 
-## Screen shot of deployed application
+### Screen shot of deployed application
 <img src="screenshot.png">
+
+#### Links to deployed application and repo.
+
+https://mcduderson.github.io/HW5-DayScheduler/.
+
+https://github.com/Mcduderson/HW5-DayScheduler
